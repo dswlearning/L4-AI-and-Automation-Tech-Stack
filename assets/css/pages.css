@@ -455,26 +455,19 @@ body, #container-wrap { background:#ededed; }
 	.paper-vertical, .paper-horizontal { padding:0; }
 }
 
-#item229 {
-	width:1920px !important;
-	height:685px !important;
-	background:#1c0f42;
-}
-
 #item232 {
-	width:1681px !important;
-	height:613px !important;
-	left:119px !important;
-	top:338px !important;
+	width:1679px !important;
+	height:638px !important;
+	left:120px !important;
+	top:325px !important;
 	background:#ffffff;
-	border:solid 2px #1c0f42;
 }
 
 #item6227 {
 	width:449px !important;
 	height:81px !important;
 	left:181px !important;
-	top:372px !important;
+	top:358px !important;
 	border:solid 2px #1c9cd8;
 }
 
@@ -482,7 +475,7 @@ body, #container-wrap { background:#ededed; }
 	width:449px !important;
 	height:81px !important;
 	left:729px !important;
-	top:372px !important;
+	top:358px !important;
 	border:solid 2px #1c9cd8;
 }
 
@@ -490,7 +483,7 @@ body, #container-wrap { background:#ededed; }
 	width:449px !important;
 	height:81px !important;
 	left:1277px !important;
-	top:372px !important;
+	top:358px !important;
 	border:solid 2px #1c9cd8;
 }
 
@@ -498,7 +491,7 @@ body, #container-wrap { background:#ededed; }
 	width:449px !important;
 	height:84px !important;
 	left:194px !important;
-	top:383px !important;
+	top:369px !important;
 	background:#e4007e;
 }
 
@@ -506,7 +499,7 @@ body, #container-wrap { background:#ededed; }
 	width:449px !important;
 	height:84px !important;
 	left:742px !important;
-	top:383px !important;
+	top:369px !important;
 	background:#e4007e;
 }
 
@@ -514,7 +507,7 @@ body, #container-wrap { background:#ededed; }
 	width:449px !important;
 	height:84px !important;
 	left:1290px !important;
-	top:383px !important;
+	top:369px !important;
 	background:#e4007e;
 }
 
@@ -555,7 +548,7 @@ body, #container-wrap { background:#ededed; }
 #item372 {
 	width:1679px !important;
 	left:120px !important;
-	top:984px !important;
+	top:947px !important;
 	min-height:16px !important;
 }
 
@@ -625,21 +618,21 @@ body, #container-wrap { background:#ededed; }
 #item1453 {
 	width:421px !important;
 	left:201px !important;
-	top:399px !important;
+	top:385px !important;
 	min-height:53px !important;
 }
 
 #item1478 {
 	width:421px !important;
 	left:749px !important;
-	top:399px !important;
+	top:385px !important;
 	min-height:53px !important;
 }
 
 #item1503 {
 	width:421px !important;
 	left:1297px !important;
-	top:399px !important;
+	top:385px !important;
 	min-height:53px !important;
 }
 
